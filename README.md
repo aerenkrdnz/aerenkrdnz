@@ -25,4 +25,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aerenkrdnz&" alt="aerenkrdnz" /></p>
 
 
-![snake gif](https://github.com/aerenkrdnz/aerenkrdnz/blob/output/github-contribution-grid-snake.gif)
