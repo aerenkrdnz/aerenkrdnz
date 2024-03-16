@@ -1,6 +1,6 @@
 ![MasterHead](http://www.aryozone.com/Resimler/Kucuk/30532473331372021.jpg)
 <h1 align="center">Hi 👋, I'm Ali Eren Karadeniz</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate backend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **NodeJs**
 
